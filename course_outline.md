@@ -3,8 +3,6 @@
 <div id="header">
 <h1>COMP9313 Course Outline</h1>
 <div id="toc">
-  <div id="toctitle">Table of Contents</div>
-  <noscript><p><b>JavaScript must be enabled in your browser to display the table of contents.</b></p></noscript>
 </div>
 </div>
 <div id="content">
